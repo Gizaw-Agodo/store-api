@@ -1,0 +1,13 @@
+[
+ {
+    "name":"mobile",
+    "rating":5,
+    "price":300
+
+ } ,
+ {
+    "name":"televison",
+    "rating":6,
+    "price":400
+ } 
+]
